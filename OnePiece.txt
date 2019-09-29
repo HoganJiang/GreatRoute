@@ -4,3 +4,5 @@ shanzhi
 mila
 wusuopu edit
 test ssh
+wusuopu edit by clone
+wusuopu edit 
